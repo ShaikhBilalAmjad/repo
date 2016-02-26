@@ -1,1 +1,2 @@
 i am clearing the concept of stage or index and unstage area.
+now i am using reset head command and clearing my concept.
