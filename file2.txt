@@ -1,0 +1,1 @@
+i am clearing the concept of stage or index and unstage area.
